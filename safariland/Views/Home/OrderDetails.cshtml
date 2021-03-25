@@ -1,0 +1,20 @@
+﻿@model IEnumerable<safariland.BundleConfig>
+
+<p>
+    @Html.ActionLink("Create New", "OrderAdd")
+</p>
+<table class="table">
+    <tr>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model1) {
+    <tr>
+        <td>
+            @Html.ActionLink("Edit", "OrderUpdate", new { /* id=item.PrimaryKey */ })
+            
+        </td>
+    </tr>
+}
+
+</table>

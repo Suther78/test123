@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "safariland", "safariland\safariland.csproj", "{87CD7790-46B4-4AEE-B7D7-423330CD3A1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87CD7790-46B4-4AEE-B7D7-423330CD3A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87CD7790-46B4-4AEE-B7D7-423330CD3A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87CD7790-46B4-4AEE-B7D7-423330CD3A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87CD7790-46B4-4AEE-B7D7-423330CD3A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {011D914D-3A37-4DBB-978E-505D43E35F64}
+	EndGlobalSection
+EndGlobal
